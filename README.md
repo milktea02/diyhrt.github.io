@@ -20,5 +20,7 @@ If you've found an issue on the site (broken links, spelling errors, etc), pleas
 ### 💌 Contact:
 If you want to get in touch, please email [hrtinfo@protonmail.com](mailto:hrtinfo@protonmail.com) or reach out directly at [diyhrt.wiki/contact](https://diyhrt.wiki/contact).
 
+<br/>
 
-
+### DISCLAIMER:
+ THIS WEBSITE IS FOR INFORMATIONAL PURPOSES ONLY AND DOES NOT PROVIDE PROFESSIONAL MEDICAL ADVICE. Always seek the advice of your physician or other qualified healthcare provider with any questions you may have regarding a medical condition or treatment and before undertaking a new health care regimen.
